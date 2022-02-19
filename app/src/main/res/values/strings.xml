@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CitySearch</string>
+
+    <!-- CityHolder   -->
+    <string name="title">%s, %s</string>
+    <string name="subtitle">Lat %s, Lon %s</string>
+    <string name="splash">Splash</string>
+
+    <!-- Map  -->
+    <string name="marker_title_holder">@string/title</string>
+
+</resources>

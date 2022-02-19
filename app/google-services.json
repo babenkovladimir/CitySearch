@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037607413838",
+    "project_id": "citysearch-d68b5",
+    "storage_bucket": "citysearch-d68b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037607413838:android:1b52dab69e07dea36ffb1f",
+        "android_client_info": {
+          "package_name": "com.backbase.citysearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037607413838-20u1jfh4v8r7ie17d84solrg81ac0keo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAkbg29l1arYmucCXq5vvoDvUBEBBg7UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037607413838-20u1jfh4v8r7ie17d84solrg81ac0keo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
